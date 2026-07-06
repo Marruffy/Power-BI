@@ -18,10 +18,10 @@ This dashboard is used for a Job seeker to know statically which data job is tre
 ## Dashboard Overview
 
 ### Page 1: Job list Market View 
-![Dashboard Page 1](/Projects/First%20Project/Dashboard%20for%20job%20findings.png)
+![Dashboard Page 1](/Dashboard%20for%20job%20findings.png)
 
 ### Page 2: Job Title High Level information (Drill Through)
-![Dashboard Page 2](/Projects/First%20Project/Drillthrough%20for%20job.png)
+![Dashboard Page 2](/Drillthrough%20for%20job.png)
 
 
 ## Conclusion
