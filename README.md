@@ -1,5 +1,7 @@
 # Dashboard for Data Job Openings
 
+![Overview Dashboard](/Media/Adobe%20Express%20-%20Recording%202026-07-06%20093655.gif)
+
 ## Background
 In 2020+ Job around Data is started to gain popularity and more companies are willing to spend more to find a perfect candidate to increse their company values, either it's the revenue, business scale, efficiency of their production even to brand awareness, etc. People start to learn more about data since because it could be a hihgly demanding job in the future, but it's hard for a job seeker to know statically which job that suits them as a **job swappers or transitioners** to know which data job is popular, which one is highly demanding in the future, and which one is worth the value to learn.
 
@@ -18,10 +20,10 @@ This dashboard is used for a Job seeker to know statically which data job is tre
 ## Dashboard Overview
 
 ### Page 1: Job list Market View 
-![Dashboard Page 1](/Dashboard%20for%20job%20findings.png)
+![Dashboard Page 1](/Media/Dashboard%20for%20job%20findings.png)
 
 ### Page 2: Job Title High Level information (Drill Through)
-![Dashboard Page 2](/Drillthrough%20for%20job.png)
+![Dashboard Page 2](/Media/Drillthrough%20for%20job.png)
 
 
 ## Conclusion
